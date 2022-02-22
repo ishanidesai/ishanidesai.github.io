@@ -1,2 +1,2 @@
-# ishanidesai.github.io
+# Ishani Desai
 Project Website (work in progress)
